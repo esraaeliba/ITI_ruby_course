@@ -1,0 +1,23 @@
+2024-05-12T15:50:52+03:00 -- info -- Processing Transactions Ali transaction with value -20, Ali transaction with value -30, Ali transaction with value -50, Ali transaction with value -100, Ali transaction with value -100, Menna transaction with value -100
+2024-05-12T15:50:52+03:00 -- info -- User Ali transaction with value -20 succeeded
+2024-05-12T15:50:52+03:00 -- info -- User Ali transaction with value -30 succeeded
+2024-05-12T15:50:52+03:00 -- info -- User Ali transaction with value -50 succeeded
+2024-05-12T15:50:52+03:00 -- info -- User Ali transaction with value -100 succeeded
+2024-05-12T15:50:52+03:00 -- warning -- Ali has 0 balance
+2024-05-12T15:50:52+03:00 -- error -- User Ali transaction with value -100 failed with message Not enough balance
+2024-05-12T15:50:52+03:00 -- error -- User Menna transaction with value -100 failed with message Menna not exist in the bank!!2024-05-12T23:18:50+03:00 -- info -- Processing Transactions Ali transaction with value -20, Ali transaction with value -30, Ali transaction with value -50, Ali transaction with value -100, Ali transaction with value -100, Menna transaction with value -100
+2024-05-12T23:18:50+03:00 -- info -- User Ali transaction with value -20 succeeded
+2024-05-12T23:18:50+03:00 -- info -- User Ali transaction with value -30 succeeded
+2024-05-12T23:18:50+03:00 -- info -- User Ali transaction with value -50 succeeded
+2024-05-12T23:18:50+03:00 -- info -- User Ali transaction with value -100 succeeded
+2024-05-12T23:18:50+03:00 -- warning -- Ali has 0 balance
+2024-05-12T23:18:50+03:00 -- error -- User Ali transaction with value -100 failed with message Not enough balance
+2024-05-12T23:18:50+03:00 -- error -- User Menna transaction with value -100 failed with message Menna not exist in the bank!!
+2024-05-12T23:19:02+03:00 -- info -- Processing Transactions Ali transaction with value -20, Ali transaction with value -30, Ali transaction with value -50, Ali transaction with value -100, Ali transaction with value -100, Menna transaction with value -100
+2024-05-12T23:19:02+03:00 -- info -- User Ali transaction with value -20 succeeded
+2024-05-12T23:19:02+03:00 -- info -- User Ali transaction with value -30 succeeded
+2024-05-12T23:19:02+03:00 -- info -- User Ali transaction with value -50 succeeded
+2024-05-12T23:19:02+03:00 -- info -- User Ali transaction with value -100 succeeded
+2024-05-12T23:19:02+03:00 -- warning -- Ali has 0 balance
+2024-05-12T23:19:02+03:00 -- error -- User Ali transaction with value -100 failed with message Not enough balance
+2024-05-12T23:19:02+03:00 -- error -- User Menna transaction with value -100 failed with message Menna not exist in the bank!!
